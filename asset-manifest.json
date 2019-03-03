@@ -1,13 +1,13 @@
 {
-  "main.css": "/React---popcornMovie/static/css/main.b0a917ca.chunk.css",
-  "main.js": "/React---popcornMovie/static/js/main.b078e642.chunk.js",
-  "main.js.map": "/React---popcornMovie/static/js/main.b078e642.chunk.js.map",
-  "runtime~main.js": "/React---popcornMovie/static/js/runtime~main.384a2f47.js",
-  "runtime~main.js.map": "/React---popcornMovie/static/js/runtime~main.384a2f47.js.map",
-  "static/js/2.7e663f1c.chunk.js": "/React---popcornMovie/static/js/2.7e663f1c.chunk.js",
-  "static/js/2.7e663f1c.chunk.js.map": "/React---popcornMovie/static/js/2.7e663f1c.chunk.js.map",
-  "index.html": "/React---popcornMovie/index.html",
-  "precache-manifest.81a0187d4262702f6baaa03d8cc77d1e.js": "/React---popcornMovie/precache-manifest.81a0187d4262702f6baaa03d8cc77d1e.js",
-  "service-worker.js": "/React---popcornMovie/service-worker.js",
-  "static/css/main.b0a917ca.chunk.css.map": "/React---popcornMovie/static/css/main.b0a917ca.chunk.css.map"
+  "main.css": "/movie_app/static/css/main.b0a917ca.chunk.css",
+  "main.js": "/movie_app/static/js/main.57ad2e6b.chunk.js",
+  "main.js.map": "/movie_app/static/js/main.57ad2e6b.chunk.js.map",
+  "runtime~main.js": "/movie_app/static/js/runtime~main.7952d9d4.js",
+  "runtime~main.js.map": "/movie_app/static/js/runtime~main.7952d9d4.js.map",
+  "static/js/2.7e663f1c.chunk.js": "/movie_app/static/js/2.7e663f1c.chunk.js",
+  "static/js/2.7e663f1c.chunk.js.map": "/movie_app/static/js/2.7e663f1c.chunk.js.map",
+  "index.html": "/movie_app/index.html",
+  "precache-manifest.95052d17939cae6b173b04084237aa23.js": "/movie_app/precache-manifest.95052d17939cae6b173b04084237aa23.js",
+  "service-worker.js": "/movie_app/service-worker.js",
+  "static/css/main.b0a917ca.chunk.css.map": "/movie_app/static/css/main.b0a917ca.chunk.css.map"
 }

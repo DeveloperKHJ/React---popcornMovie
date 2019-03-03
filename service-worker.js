@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React---popcornMovie/precache-manifest.81a0187d4262702f6baaa03d8cc77d1e.js"
+  "/movie_app/precache-manifest.95052d17939cae6b173b04084237aa23.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/React---popcornMovie/index.html", {
+workbox.routing.registerNavigationRoute("/movie_app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
